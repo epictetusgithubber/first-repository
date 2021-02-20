@@ -1,2 +1,4 @@
 # first-repository
-First repository for testing purposes. This file was modified locally
+First repository for testing purposes.
+
+This line was modified manually during conflicts resolution
